@@ -1,0 +1,9 @@
+:root {
+    --ada-blue: #336178;
+    --ada-red: #ae485e;
+}
+
+body {
+    background-image: url("https://www.ada.edu.az/media/2024/09/06/20240827092151_83912100.jpeg");
+    background-color: var(--ada-blue);
+}
